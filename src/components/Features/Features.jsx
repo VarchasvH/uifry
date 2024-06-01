@@ -13,12 +13,14 @@ const Features = () => {
       className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 mt-0'
       id='features'
     >
-      <div className='relative md:hidden flex justify-center items-center  ml-20 mt-40 mb-0'>
+      <div className='relative md:hidden flex justify-center items-center ml-20 mt-40 mb-0'>
         <div className=' md:mr-64 mr-20'>
           <h2 className='text-orange-500 font-mono tracking-wide text-2xl'>
             FEATURES
           </h2>
-          <p className='font-extrabold text-4xl font-sans'>Uifry Premium</p>
+          <p className='font-extrabold md:text-5xl text-3xl font-sans'>
+            Uifry Premium
+          </p>
           <div className='mt-10 space-y-10'>
             <div className='flex flex-col'>
               <div className='flex gap-4 text-xl font-bold font-mono'>

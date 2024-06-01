@@ -21,7 +21,7 @@ const HeroSection = () => {
           faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
         </p>
         {/* Buttons */}
-        <div className='flex justify-center items-center md:mr-28 md:space-x-5 space-x-20 z-10'>
+        <div className='flex justify-center items-center md:mr-28 md:space-x-5 space-x-12 z-10 mr-10'>
           <button className='bg-black text-white md:py-3 md:px-8 py-3 px-8 mt-5 rounded-xl hover:bg-gray-900'>
             Get Started
           </button>
@@ -38,7 +38,7 @@ const HeroSection = () => {
         />
       </div>
       {/* Right Part */}
-      <div className='relative flex justify-center items-center md:mr-44 mr-20'>
+      <div className='relative flex justify-center items-center md:mr-44 mr-32'>
         <div className='relative w-[300px] h-[300px] md:w-[550px] md:h-[500px]'>
           <Image
             alt=''
