@@ -8,10 +8,10 @@ import blur from "../../../public/assets/blur.svg";
 const WhyUs = () => {
   return (
     <div
-      className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 mt-[-300px]'
+      className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 mt-[-300px] md:mt-0'
       id='features'
     >
-      <div className=' flex justify-center items-center md:ml-52 ml-20 md:mt-[-300px] mt-32 '>
+      <div className=' flex justify-center items-center md:ml-52 ml-20 md:mt-[-300px]'>
         <div>
           <h2 className='text-orange-500 font-mono tracking-wide text-xl'>
             ADVANTAGES

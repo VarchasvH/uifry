@@ -8,7 +8,7 @@ import blur from "../../../public/assets/blur.svg";
 const Customizable = () => {
   return (
     <div
-      className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 mt-[-300px]'
+      className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 mt-[-300px] md:mt-0'
       id='features'
     >
       <div className='flex md:hidden justify-center items-center md:ml-52 ml-20 md:mt-[-300px] mt-32 '>
