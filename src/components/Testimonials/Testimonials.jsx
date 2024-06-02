@@ -14,7 +14,7 @@ const Testimonials = () => {
       <p className='font-extrabold md:text-5xl text-xl px-5   '>
         Say About Us?
       </p>
-      <div className='grid grid-rows-2 md:grid-cols-2 '>
+      <div className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 grid-cols-1 '>
         <div className='relative flex justify-center items-center md:mr-44 mr-32'>
           <div className='relative w-[300px] h-[300px] md:w-[750px] md:h-[500px]'>
             <Image
