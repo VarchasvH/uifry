@@ -5,6 +5,7 @@ import WhyUs from "@/components/WhyUs/WhyUs";
 import Customizable from "@/components/Customizable/Customizable";
 import Testimonials from "@/components/Testimonials/Testimonials";
 import FAQ from "@/components/FAQ/FAQ";
+import Footer from "@/components/Footer/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Customizable />
       <Testimonials />
       <FAQ />
+      <Footer />
     </>
   );
 }
